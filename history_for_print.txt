@@ -1,0 +1,82 @@
+    1  ls
+    2  java -version
+    3  clear
+    4  cd ~/
+    5  ls -al
+    6  open -e .bahs_profile
+    7  open -e .bash_profile
+    8  source .bash_profile
+    9  java -version
+   10  javac -version
+   11  echo $JAVA_HOME
+   12  cd /Applications
+   13  ls -al
+   14  cd apache-maven-3.6.0
+   15  pwd
+   16  mvn -v
+   17  clear
+   18  mvn -v
+   19  cd /Users/w.c.horrel
+   20  ls
+   21  ls
+   22  cd Desktop/tomcat
+   23  ls
+   24  cd apache-tomcat-9.0.13
+   25  ls
+   26  cd bin
+   27  ls
+   28  chmod +x *.sh
+   29  ls -al
+   30  ls -al *.sh
+   31  ./startup.sh
+   32  ./shutdown.sh
+   33  ./startup.sh
+   34  ./shutdown.sh
+   35  ls
+   36  ./catalina.sh
+   37  ./catalina.sh start
+   38  ./catalina.sh stop
+   39  ls -al
+   40  defaults write com.apple.finder AppleShowAllfiles YES
+   41  ls -al
+   42  open -e .bash_profile
+   43  mysql -u root -p
+   44  git --version
+   45  ls -al
+   46  git --version
+   47  git --version
+   48  git --version
+   49  open -d .bash_profile
+   50  open -e .bah_profile
+   51  cd ~/.
+   52  ls
+   53  default write com.apple.finder AppleSowAllFiles YES
+   54  defaults write com.apple.finder AppleSowAllFiles YES
+   55  ls
+   56  ls -al
+   57  open -e .bash_profile
+   58  echo "PATH=/usr/local/git/bin:\bin:$PATH" >> ~/.bash_profile
+   59  open -e .bash_profile
+   60  git --version
+   61  source ~/.bash_profile
+   62  git --version
+   63  git --version
+   64  open -e .bash_profile
+   65  ls _al
+   66  ls -al
+   67  git config--global user.email "carina.horrel@gmail.com"
+   68  git config --global user.email "carina.horrel@gmail.com"
+   69  git config --global user.nama "CarinaHorrel"
+   70  show status
+   71  cd /Users/w.c.horrel/Desktop/Tools/Git/MyFolder/
+   72  git init
+   73  defaults write com.apple.finder AppleSowAllFiles YES
+   74  defaults write com.apple.finder AppleSowAllFiles YES
+   75  git status
+   76  touch test2.txt
+   77  git status
+   78  git add test2.txt
+   79  git status
+   80  git commit -m "ander test2.txt"
+   81  git status
+   82  history > history_for_print.txt
